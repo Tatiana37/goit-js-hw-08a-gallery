@@ -1,0 +1,27 @@
+{
+  "name": "goit-js-hw-08a-gallery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tatiana37/goit-js-hw-08a-gallery.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tatiana37/goit-js-hw-08a-gallery/issues"
+  },
+  "homepage": "https://github.com/Tatiana37/goit-js-hw-08a-gallery#readme",
+  "dependencies": {
+    "joi": "^17.4.1",
+    "shortid": "^2.2.16"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
